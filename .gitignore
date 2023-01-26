@@ -17,4 +17,8 @@ target/
 # Dump file
 *.stackdump
 
+# IDE / Editor
 .idea
+
+# macOS
+.DS_Store
